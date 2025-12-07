@@ -6,7 +6,7 @@ Library for markdown ripping &amp; rendering in Picotron
 Headers:
   using picotron lil, thel's widesquat and minie font to help show sizing
 
-  Indentation
+Indentation
 
 Pure text
 
