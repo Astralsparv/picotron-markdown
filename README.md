@@ -14,6 +14,3 @@ Support from @soupster to embed the font in this .lua library
 Minie & widesquat font by @thelxinoe5
 
 String matching taken from https://github.com/mpeterv/markdown
-
-Copyright (c) 2008 Niklas Frykholm
-Copyright (c) 2015 Peter Melnichenko
